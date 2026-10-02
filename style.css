@@ -4,4 +4,4 @@
 
 /* Keep reference artwork inside the drawing area on every screen. */
 main > .stage{min-width:0}.stage .new-ticket{width:100%;max-width:640px;min-width:0;margin:26px auto 0;box-sizing:border-box}.stage .new-ticket img{display:block;width:100%;max-width:100%;height:auto;object-fit:contain}.ticket-reference img{max-width:100%;height:auto}
-
+.header-actions{display:flex;gap:8px;flex-shrink:0}
